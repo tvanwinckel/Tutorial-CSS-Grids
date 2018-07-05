@@ -36,6 +36,9 @@
 
 .content {
     grid-area: content;
+/*    justify-self: start;*/
+/*    justify-self: end;*/
+    justify-self: center;
 }
 
 .footer {
