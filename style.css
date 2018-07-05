@@ -13,6 +13,7 @@
         "sidebar sidebar"
         "content content"
         "footer footer";
+    grid-gap: 10px;
 }
 
 .grid div:nth-child(even) {
